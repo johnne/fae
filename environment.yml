@@ -1,0 +1,9 @@
+name: fae
+channels:
+  - bioconda
+dependencies:
+  - python=3.7
+  - ete3
+  - jupyter
+  - pandas
+  - seaborn
