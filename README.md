@@ -1,7 +1,11 @@
 # fae
-Code used to plot results for article in project 
-"Improving digestibility of silage fibre by use of feruloly esterase 
-producing microorganisms as a silage additive"
+Code used to plot results for article in Frontiers in Microbiology:
+
+*Identification of Novel Putative Bacterial Feruloyl Esterases From 
+Anaerobic Ecosystems by Use of Whole-Genome Shotgun Metagenomics 
+and Genome Binning*, K. Mogodiniyai Kasmaei & J. Sundh (2019)
+
+[doi:10.3389/fmicb.2019.02673](https://doi.org/10.3389/fmicb.2019.02673)
 
 ## How to use
 ### Install environment
