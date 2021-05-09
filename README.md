@@ -1,4 +1,4 @@
-# fae
+# Feruloyl Esterases repo
 Code used to plot results for article in Frontiers in Microbiology:
 
 *Identification of Novel Putative Bacterial Feruloyl Esterases From 
