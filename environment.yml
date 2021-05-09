@@ -1,6 +1,8 @@
 name: fae
 channels:
   - bioconda
+  - conda-forge
+  - defaults
 dependencies:
   - python=3.7
   - ete3=3.1.1
