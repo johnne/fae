@@ -1,7 +1,6 @@
 # Feruloyl Esterases repo
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnne/fae/HEAD?filepath=plots.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnne/fae/binder?filepath=plots.ipynb)
 Code used to plot results for article in Frontiers in Microbiology:
 
 *Identification of Novel Putative Bacterial Feruloyl Esterases From 
